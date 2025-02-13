@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="13-datos.xsd" type="application/xml" ?>
+<datos>
+<lastname> Paco</lastname>
+<age>23</age>
+<dateborn>1960/7/27</dateborn>
+</datos>

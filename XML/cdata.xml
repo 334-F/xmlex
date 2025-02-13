@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ficha>
+    <nombre>Lenguaje C</nombre>
+    <info-html>
+        <![CDATA[ 
+          <h1>LENGUAJES DE PROGRAMACION</h1>
+          <hr>
+          <a href="w3schoolds.com/c"> C </a>
+    ]]>
+    </info-html>
+    <otra>
+    </otra>
+    </ficha>

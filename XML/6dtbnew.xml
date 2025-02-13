@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xml tenemos 2 tipos de validacion
+    1-xml formado
+    2- xml valido siguiente las reglas concretas definadas en un DTD o XSD
+    al igual que un CSS interno o externo
+    -->
+    <!DOCTYPE aviso [
+        <!ELEMENT aviso (de, para, mensaje)>
+        <!ELEMENT de (#PCDATA)>
+        <!ELEMENT para (#PCDATA)>
+        <!ELEMENT mensaje (#PCDATA)>
+    ]>
+    <aviso>
+    <de>Martin</de>
+    <para>Felipe</para>
+    <mensaje>Mañana si hay clase de marcas</mensaje>
+    
+    
+    </aviso>

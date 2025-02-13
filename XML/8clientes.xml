@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Hemos dicho que un DTD es un conjunto de reglas que nos dicen 
+Escribe un xml y el dtd correspondiente qye cumpla:
+Elemento raiz <listacliente>
+Dentro de <listacliente> puede haber uno o más elementos <cliente>
+    Dentro de <cliente> etiquetas <nombre> y <cif>
+        Dentro de cliente puede aparecer o no etiquetas <diasentrega>  ?
+-->
+<!DOCTYPE listaclientes SYSTEM "8clientes.dtd">
+<listacliente>
+<cliente>
+<nombre>Mercadona</nombre>
+<cif>222</cif>
+</cliente>
+<cliente>
+<nombre>Juan</nombre>
+</cliente>
+</listacliente>

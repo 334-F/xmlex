@@ -1,0 +1,12 @@
+<!ELEMENT receta (nombre, ingredientes, elaboracion, raciones, dificultad, cantidad)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT ingredientes(ingredientes*)>
+<!ELEMENT elaboracion (#PCDATA)>
+<!ELEMENT ingredientes (#PCDATA)>
+<!--AHora definimos los atributos-->
+<!ATTLIST receta raciones CDATA #REQUIRED>
+<!ATTLIST receta dificultad (baja | media | alta) "media">
+<!--Los ingredientes tiene un atributo opcionakl con la cantidad del ingrediente-->
+<!ATTLIST ingrediente cantidad CDATA #IMPLIED>
+<!--Los ingredientes tienen un atrivuto opco9pnal y la unicdad en la que estan experresadas en las cantidadsdews-->
+<!ATTLIST ingrediente unidad CDATA #IMPLIED>

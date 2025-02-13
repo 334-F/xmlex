@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE receta SYSTEM "5-receta.dtd">
+<receta raciones="2" dificultad="baja">
+    <nombre>Pan tumaca</nombre>
+    <ingredientes>
+        <ingrediente cantidad="1" unidad="rebanada">Pan</ingrediente>
+        <ingrediente cantidad="1" unidad="unidad">Tomate</ingrediente>
+        <ingrediente cantidad="1" unidad="cucharada">Aceite de oliva</ingrediente>
+    </ingredientes>
+    <elaboracion>Tomate rallado en un pan tostado con aceite.</elaboracion>
+</receta>

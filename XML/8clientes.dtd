@@ -1,0 +1,4 @@
+<!ELEMENT listaclientes (cliente+)>
+<!ELEMENT cliente (nombre, cif, diasentrega?)>
+<!ELEMENT nombre (#PCDATA)> 
+<!ELEMENT element-name (#PCDATA)>(#PCDATA)>

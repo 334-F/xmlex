@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- en el xsd define una sewcuencia de 3 campos, de, para , texto de tipo string-->
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="mensaje">
+    <xs:complexType>
+   <xs:element name="de" type="xs:string"/>
+    <xs:element name="para" type="xs:string"/>
+     <xs:element name="texto" type="xs:string"/>
+    
+    
+    </xs:complexType>
+        
+    </xs:element>
+</xs:schema>

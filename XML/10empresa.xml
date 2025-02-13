@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE receta SYSTEM "10-empresa.dtd">
+<listafactura >
+    
+    <facturas>
+        <factura fecha="1/1/2026" emisor="" nombre=""></factura>
+        <factura fecha="1/1/2026" receptor="" nombre=""></factura>
+        
+    </facturas>
+    <importe></importe>
+</listafactura>

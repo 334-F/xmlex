@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-schema <xmlns:xs="http://www.w3.org/2001/XMLSchema"?>
+<?<xs:elemenetname="bingo">
+<xs><complextTyoe>
+<xs:sequence>
+<xs:element name="bola" masxOccurs=""
+</xs:sequence>
+</complextTyoe><
+    /xs>
+    </xs:elemenet>

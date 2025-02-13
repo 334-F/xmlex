@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--otra forma de medir las reglas de xml  es mediante un XML Schema,
+que es más resctrintivos que un DTD, por ejemplo :
+tipos de datos string boolean, decimal-->
+<mensaje xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="12-mensaje.xsd">
+
+<de>Arantxa</de>
+<para>Clase</para>
+<texto>El viernes no hay marcas a las 8:30</texto>
+</mensaje>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--en un DTD, una entidad es como una constante en programacion, un valor fijo
+que cambia su valor al visualizar-->
+<!DOCTYPE fichas [
+    <!ENTITY poblacion "Casarrubios, plaza mayor 1">
+]>
+
+<ficha>
+<ficha>
+<emrpesa nombre="Tractores Toledo"></emrpesa>
+<direccion>&poblacion</direccion>
+</ficha>
+</ficha>

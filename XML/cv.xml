@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cv SYSTEM "4-cv.dtd">
+<cv>
+    <nombre>Felipe Xu</nombre>
+    <direccion>Calle el Santo, 223, Madrid</direccion>
+    <telefono>+34 600 123 456</telefono>
+    <fax>+34 600 654 321</fax>
+    <email>felipexu@example.com</email>
+    <email>felipe.work@example.com</email>
+    <idiomas>
+        <idioma>Español</idioma>
+        <idioma>Inglés</idioma>
+        <idioma>Francés</idioma>
+    </idiomas>
+</cv>
